@@ -1,4 +1,6 @@
-# my-project
+# preact-typescript-template
+
+This is a Preact TypeScript template created originally from [this template library](https://github.com/preactjs-templates/typescript). 
 
 ## CLI Commands
 *   `npm install`: Installs dependencies
