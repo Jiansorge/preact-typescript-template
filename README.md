@@ -1,6 +1,10 @@
 # preact-typescript-template
 
-This is a Preact TypeScript template created originally from [this template library](https://github.com/preactjs-templates/typescript). 
+This is currently a  stock Preact TypeScript template created originally from [this template library](https://github.com/preactjs-templates/typescript). 
+
+## TODO
+- [ ] add pre-rendering for SEO
+- [ ] add css modules/framework
 
 ## CLI Commands
 *   `npm install`: Installs dependencies
